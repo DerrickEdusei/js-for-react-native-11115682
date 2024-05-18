@@ -6,7 +6,7 @@ function processArray(arr) {
             // If the number is even, square it
             return num * num;
         } else {
-            // If the number is odd, triple itgit
+            // If the number is odd, triple it
             return num * 3;
         }
     });
