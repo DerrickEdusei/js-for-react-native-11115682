@@ -11,10 +11,7 @@ function processArray(arr) {
         }
     });
 }
-const inputArray = [3, 6, 9, 14, 25];
-const processedArray = processArray(inputArray);
 
-console.log(processedArray); 
 
 
 function formatArrayStrings(stringArray, numberArray) {
